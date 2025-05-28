@@ -5,7 +5,7 @@
         "id": {
             "group": null,
             "name": "addonfactory_splunk_env_indexer",
-            "version": "1.0.0"
+            "version": "1.0.1"
         },
         "author": [
             {

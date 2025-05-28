@@ -27,3 +27,4 @@ header:
     - "metadata/default.meta"
     - "app.manifest"
     - "default/app.conf"
+    - "metadata/local.meta"
