@@ -1,0 +1,56 @@
+{
+    "schemaVersion": "2.0.0",
+    "info": {
+        "title": "Addonfactory Splunk env indexer",
+        "id": {
+            "group": null,
+            "name": "addonfactory_splunk_env_indexer",
+            "version": "1.0.0"
+        },
+        "author": [
+            {
+                "name": "Splunk",
+                "email": null,
+                "company": null
+            }
+        ],
+        "releaseDate": null,
+        "description": "addonfactory_splunk_env_indexer",
+        "classification": {
+            "intendedAudience": null,
+            "categories": [],
+            "developmentStatus": null
+        },
+        "commonInformationModels": null,
+        "license": {
+            "name": null,
+            "text": "LICENSES/LicenseRef-Splunk-8-2021.txt",
+            "uri": null
+        },
+        "privacyPolicy": {
+            "name": null,
+            "text": null,
+            "uri": null
+        },
+        "releaseNotes": {
+            "name": null,
+            "text": "./README.md",
+            "uri": null
+        }
+    },
+    "dependencies": null,
+    "tasks": null,
+    "inputGroups": null,
+    "incompatibleApps": null,
+    "platformRequirements": null,
+    "supportedDeployments": [
+        "_standalone",
+        "_distributed",
+        "_search_head_clustering"
+    ],
+    "targetWorkloads": [
+        "_search_heads",
+        "_indexers",
+        "_forwarders"
+    ]
+}

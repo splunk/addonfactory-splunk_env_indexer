@@ -25,3 +25,5 @@ header:
     - ".*"
     - "default/indexes.conf"
     - "metadata/default.meta"
+    - "app.manifest"
+    - "default/app.conf"
